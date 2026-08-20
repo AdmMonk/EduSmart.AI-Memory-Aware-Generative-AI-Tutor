@@ -1,0 +1,26 @@
+# Physics — Mechanics & Motion
+
+## Newton's Laws of Motion
+
+### Newton's First Law (Law of Inertia)
+Newton's first law states that an object at rest stays at rest, and an object in motion stays in motion at constant velocity, unless acted upon by an unbalanced external force. This property of matter resisting changes in motion is called **inertia**.
+
+Example: A book on a table remains stationary until you push it. Once sliding, it would continue forever on a frictionless surface.
+
+### Newton's Second Law
+The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass: F = ma. Force is measured in Newtons (N), mass in kilograms (kg), and acceleration in m/s².
+
+### Newton's Third Law
+For every action, there is an equal and opposite reaction. When you push a wall, the wall pushes back with equal force.
+
+## Kinematics
+
+Velocity is the rate of change of displacement. Acceleration is the rate of change of velocity. The equations of motion relate displacement, velocity, acceleration, and time for uniformly accelerated motion.
+
+## Energy
+
+Kinetic energy KE = ½mv². Potential energy due to gravity PE = mgh. The law of conservation of energy states energy cannot be created or destroyed, only transformed.
+
+## Work and Power
+
+Work W = Fd cos(θ). Power P = W/t, measured in Watts. A machine that does work faster has greater power.

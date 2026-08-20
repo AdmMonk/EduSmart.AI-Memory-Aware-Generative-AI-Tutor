@@ -1,0 +1,25 @@
+# Mathematics — Algebra & Quadratic Equations
+
+## Linear Equations
+A linear equation in one variable has the form ax + b = 0. Solve by isolating x using inverse operations.
+
+## Quadratic Equations
+A quadratic equation has the form ax² + bx + c = 0 where a ≠ 0. Solutions can be found using:
+
+1. **Factoring** — express as product of binomials set equal to zero.
+2. **Completing the square** — rewrite in the form (x + p)² = q.
+3. **Quadratic formula** — x = (-b ± √(b² - 4ac)) / 2a
+
+The discriminant b² - 4ac determines the nature of roots:
+- Positive: two distinct real roots
+- Zero: one repeated real root
+- Negative: two complex roots
+
+## Example
+Solve x² - 5x + 6 = 0. Factoring: (x - 2)(x - 3) = 0, so x = 2 or x = 3.
+
+## Functions
+A function maps each input to exactly one output. Linear functions f(x) = mx + b graph as straight lines. Quadratic functions f(x) = ax² + bx + c graph as parabolas.
+
+## Systems of Equations
+Two equations with two variables can be solved by substitution or elimination to find the point of intersection.
