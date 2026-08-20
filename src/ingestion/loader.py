@@ -1,5 +1,3 @@
-"""Load curriculum documents and split them into chunks for embedding."""
-
 from pathlib import Path
 
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
@@ -42,7 +40,7 @@ def split_documents(
     documents: list[Document],
     settings: Settings | None = None,
 ) -> list[Document]:
-    """Split documents into overlapping chunks suitable for retrieval."""
+    ###Split documents into overlapping chunks suitable for retrieval.
     cfg = settings or get_settings()
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=cfg.chunk_size,
