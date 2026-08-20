@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment & secrets
+.env
+.env.local
+*.pem
+
+# Vector stores & processed data
+vectorstore/
+data/processed/
+*.faiss
+*.pkl
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & caches
+*.log
+.cache/
+models/
+.huggingface/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
